@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body {
+    font-family: "Inter", sans-serif;
+    background-color: #F1F4F5;
+}
+
+.container {
+    max-width: 800px;
+}
+
+
+.tabulka {
+    background-color: #FEFFFE;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
